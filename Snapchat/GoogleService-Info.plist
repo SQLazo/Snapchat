@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244409993904-i50tnge6943e37cegatbc5m811d4angn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244409993904-i50tnge6943e37cegatbc5m811d4angn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgbAiOw9sL8MgU6tiaG1sU-MVSEDFdjkk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244409993904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tecsup.Snapchat</string>
+	<key>PROJECT_ID</key>
+	<string>snapchat-d5196</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapchat-d5196.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244409993904:ios:bbcc04071599feb812c975</string>
+	<key>DATABASE_URL</key>
+	<string>https://snapchat-d5196.firebaseio.com</string>
+</dict>
+</plist>
